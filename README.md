@@ -1,1 +1,1 @@
-  <img align="center" alt="GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="500" height="320" />
+  <img align="center" alt="GIF" src="./P2Rtrailer.gif" />
